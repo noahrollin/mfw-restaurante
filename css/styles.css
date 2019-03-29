@@ -1,3 +1,10 @@
+
+/* global */
+
+#contact {
+    min-height: 600px;
+}
+
 .wrap {
     min-height: 100vh;
 }
@@ -48,4 +55,58 @@
 .carousel-caption p {
     color: #f7f7f7;
     font-size: 16px;
+}
+
+/* our story section */
+
+
+
+/* contact section */
+
+.contact_form {
+    background-color: #ff6633;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.contact_form form {
+    padding: 5% 0;
+}
+
+.contact_form span {
+    color: #ff0d06;
+}
+
+#contact {
+    background-color: #f8512f;
+}
+
+#contact h1 {
+    font-family: "raleway", sans-serif;
+    font-weight: 700;
+    color: #fff;
+    font-size: 4am;
+}
+
+#contact p {
+    font-family: "raleway", sans-serif;
+    font-weight: 300;
+    color: #fff;
+    font-size: 1am;
+}
+
+#contact_fine_print {
+    font-size: 12px !important;
+    text-align: center;
+}
+
+address {
+    color: #fff;
+    font-family: "raleway", sans-serif;
+    font-weight: 300;
+}
+
+.contact-bottom {
+    margin-top: 50px;
+    margin-bottom: 25px;
 }
